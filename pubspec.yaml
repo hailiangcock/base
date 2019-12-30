@@ -1,8 +1,8 @@
 name: base
 description: A base plugin.
 version: 0.0.1
-author:
-homepage:
+author: Cock fengchuikukudehailiang@gmail.com
+homepage: https://github.com/hailiangcock/base.git
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
